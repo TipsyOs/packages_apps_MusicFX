@@ -15,7 +15,7 @@
 
     <color name="primaryColor">#ff000000</color>
     <color name="primaryColorDark">#ff000000</color>
-    <color name="accentColor">#ff009688</color>
+    <color name="accentColor">#fff1d744</color>
     <color name="disabled">#ff616161</color>
     <color name="textColor">@android:color/white</color>
     <color name="drawer_header_text_color">@android:color/white</color>
@@ -31,7 +31,7 @@
     <color name="spinner_reverb_list">@color/primaryColor</color>
     <color name="gallery_bg_color">@color/primaryColor</color>
     <color name="disabled_gallery_text">#9b9292</color>
-    <color name="highlight_gallery_text">#009688</color>
+    <color name="highlight_gallery_text">#f1d744</color>
     <color name="lowlight_gallery_text">#609E98</color>
     <color name="knobs_area_background">@color/primaryColor</color>
     <color name="knob_disabled">@color/disabled</color>
@@ -41,7 +41,7 @@
     <color name="mainBackgroundColor">@color/primaryColor</color>
     <color name="current_out_source">#000000</color>
     <color name="current_out_source_color">@android:color/white</color>
-    <color name="visualizer_highlight">#80009688</color>
+    <color name="visualizer_highlight">#80f1d744</color>
     <color name="visualizer_lowlight">@color/accentColor</color>
     <color name="visualizer_disabled">@color/textColor</color>
 
